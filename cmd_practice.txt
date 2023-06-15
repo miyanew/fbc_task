@@ -1,2 +1,3 @@
 pull --rebase、 stash、stash popをやってみる
-add リモートのmainのファイルに追記
+Terminalのスクリーンショットを提出して確認してもらう。
+rebaseはmainとブランチの差分がある状態で行なって、rebaseが実行されていることを確認してください。
