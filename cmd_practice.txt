@@ -2,4 +2,3 @@ pull --rebase、 stash、stash popをやってみる
 Terminalのスクリーンショットを提出して確認してください
 rebaseはmainとブランチの差分がある状態で行なって、rebaseが実行されていることを確認してください
 main
-topic1
